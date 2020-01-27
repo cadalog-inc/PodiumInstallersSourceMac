@@ -1,11 +1,5 @@
 #!/bin/sh
 
-#  UninstallPodiumExtrasMac.sh
-#  
-#
-#  Created by Solymosi Robert on 10/10/17.
-#
-
 sudo rm -f /Library/Application\ Support/SketchUp\ 2019/SketchUp/plugins/PodiumExtras.rb
 sudo rm -rf /Library/Application\ Support/SketchUp\ 2019/SketchUp/plugins/PodiumExtras
 sudo rm -rf /Library/Application\ Support/SketchUp\ 2019/SketchUp/plugins/PodiumHDR
