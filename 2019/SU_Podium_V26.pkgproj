@@ -570,6 +570,8 @@
 				</dict>
 				<key>PAYLOAD_TYPE</key>
 				<integer>0</integer>
+				<key>PRESERVE_EXTENDED_ATTRIBUTES</key>
+				<false/>
 				<key>SHOW_INVISIBLE</key>
 				<false/>
 				<key>SPLIT_FORKS</key>
@@ -584,14 +586,14 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/Cadalog/SUPodium/Publish/2019/SU_Podium_V26/SU_Podium_V26/programs/script/postinstall_SU8.sh</string>
+					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2019/script/postinstall_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/Cadalog/SUPodium/Publish/2019/SU_Podium_V26/SU_Podium_V26/programs/script/pre_install_read_license_SU8.sh</string>
+					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2019/script/pre_install_read_license_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
