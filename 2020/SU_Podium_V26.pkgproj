@@ -71,75 +71,11 @@
 																	<key>GID</key>
 																	<integer>80</integer>
 																	<key>PATH</key>
-																	<string>PodiumHDR</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>511</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>80</integer>
-																	<key>PATH</key>
-																	<string>PodiumTemp</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>511</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>80</integer>
-																	<key>PATH</key>
-																	<string>PodiumExtras</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>493</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>80</integer>
-																	<key>PATH</key>
-																	<string>PodiumExtras.rb</string>
-																	<key>PATH_TYPE</key>
-																	<integer>1</integer>
-																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
-																	<key>TYPE</key>
-																	<integer>3</integer>
-																	<key>UID</key>
-																	<integer>0</integer>
-																</dict>
-																<dict>
-																	<key>CHILDREN</key>
-																	<array/>
-																	<key>GID</key>
-																	<integer>80</integer>
-																	<key>PATH</key>
 																	<string>SU_Podium_V26</string>
 																	<key>PATH_TYPE</key>
 																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
-																	<integer>493</integer>
+																	<integer>511</integer>
 																	<key>TYPE</key>
 																	<integer>3</integer>
 																	<key>UID</key>
@@ -155,7 +91,7 @@
 																	<key>PATH_TYPE</key>
 																	<integer>1</integer>
 																	<key>PERMISSIONS</key>
-																	<integer>420</integer>
+																	<integer>438</integer>
 																	<key>TYPE</key>
 																	<integer>3</integer>
 																	<key>UID</key>
@@ -193,7 +129,7 @@
 											<key>GID</key>
 											<integer>80</integer>
 											<key>PATH</key>
-											<string>SketchUp 2017</string>
+											<string>SketchUp 2019</string>
 											<key>PATH_TYPE</key>
 											<integer>0</integer>
 											<key>PERMISSIONS</key>
@@ -648,14 +584,14 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/Cadalog/SUPodium/Publish/2017/SU_Podium_V26/SU_Podium_V26/programs/script/postinstall_SU8.sh</string>
+					<string>/Users/antonbursch/Documents/Cadalog/SUPodium/Publish/2019/SU_Podium_V26/SU_Podium_V26/programs/script/postinstall_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/Cadalog/SUPodium/Publish/2017/SU_Podium_V26/SU_Podium_V26/programs/script/pre_install_read_license_SU8.sh</string>
+					<string>/Users/antonbursch/Documents/Cadalog/SUPodium/Publish/2019/SU_Podium_V26/SU_Podium_V26/programs/script/pre_install_read_license_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
@@ -671,7 +607,7 @@
 				<key>FOLLOW_SYMBOLIC_LINKS</key>
 				<false/>
 				<key>IDENTIFIER</key>
-				<string>SU2017PodiumV2.6.041</string>
+				<string>SU2019PodiumV2.6.041</string>
 				<key>LOCATION</key>
 				<integer>0</integer>
 				<key>NAME</key>
@@ -1060,7 +996,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>SU2017_Podium_V26</string>
+			<string>SU2019_Podium_V26</string>
 			<key>PAYLOAD_ONLY</key>
 			<false/>
 			<key>TREAT_MISSING_PRESENTATION_DOCUMENTS_AS_WARNING</key>
