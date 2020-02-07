@@ -586,14 +586,14 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2019/script/postinstall_SU8.sh</string>
+					<string>/Users/Taka/Documents/Dev/Podium/PodiumPublishMac/2019/script/postinstall_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2019/script/pre_install_read_license_SU8.sh</string>
+					<string>/Users/Taka/Documents/Dev/Podium/PodiumPublishMac/2019/script/pre_install_read_license_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>

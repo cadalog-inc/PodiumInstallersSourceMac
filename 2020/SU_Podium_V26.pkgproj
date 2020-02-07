@@ -129,7 +129,7 @@
 											<key>GID</key>
 											<integer>80</integer>
 											<key>PATH</key>
-											<string>SketchUp 2019</string>
+											<string>SketchUp 2020</string>
 											<key>PATH_TYPE</key>
 											<integer>0</integer>
 											<key>PERMISSIONS</key>
@@ -586,14 +586,14 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2020/script/postinstall_SU8.sh</string>
+					<string>/Users/Taka/Documents/Dev/Podium/PodiumPublishMac/2020/script/postinstall_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2020/script/pre_install_read_license_SU8.sh</string>
+					<string>/Users/Taka/Documents/Dev/Podium/PodiumPublishMac/2020/script/pre_install_read_license_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
@@ -609,7 +609,7 @@
 				<key>FOLLOW_SYMBOLIC_LINKS</key>
 				<false/>
 				<key>IDENTIFIER</key>
-				<string>SU2019PodiumV2.6.043</string>
+				<string>SU2020PodiumV2.6.043</string>
 				<key>LOCATION</key>
 				<integer>0</integer>
 				<key>NAME</key>
@@ -998,7 +998,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>SU2019_Podium_V26</string>
+			<string>SU2020_Podium_V26</string>
 			<key>PAYLOAD_ONLY</key>
 			<false/>
 			<key>TREAT_MISSING_PRESENTATION_DOCUMENTS_AS_WARNING</key>

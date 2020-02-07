@@ -6,7 +6,7 @@ chmod -R 555 *
 cp -R "/Library/Application Support/SketchUp 2018/SketchUp/plugins/SU_Podium_V26/Podium" "/Library/Application Support/SketchUp 2018/SketchUp/Styles"
 
 chmod 777 "/Library/Application Support/SketchUp 2018/SketchUp/plugins"
-if [ -f "/Library/Application Support/SketchUp 2018/SketchUp/plugins/PodiumLicense"]
+if [ -f "/Library/Application Support/SketchUp 2018/SketchUp/plugins/PodiumLicense" ]
 then
     chmod 777 "/Library/Application Support/SketchUp 2018/SketchUp/plugins/PodiumLicense"
 fi
