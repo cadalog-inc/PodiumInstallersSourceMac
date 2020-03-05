@@ -67,7 +67,186 @@
 															<array>
 																<dict>
 																	<key>CHILDREN</key>
-																	<array/>
+																	<array>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/.DS_Store</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>436</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/extensions</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/Extras</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/HDR</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>511</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/locale</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/plug_in</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/Podium</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/presets</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/programs</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>509</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/SU_Podium_V26.susig</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>436</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																		<dict>
+																			<key>CHILDREN</key>
+																			<array/>
+																			<key>GID</key>
+																			<integer>80</integer>
+																			<key>PATH</key>
+																			<string>SU_Podium_V26/Temp</string>
+																			<key>PATH_TYPE</key>
+																			<integer>1</integer>
+																			<key>PERMISSIONS</key>
+																			<integer>511</integer>
+																			<key>TYPE</key>
+																			<integer>3</integer>
+																			<key>UID</key>
+																			<integer>0</integer>
+																		</dict>
+																	</array>
+																	<key>EXPANDED</key>
+																	<true/>
 																	<key>GID</key>
 																	<integer>80</integer>
 																	<key>PATH</key>
@@ -586,14 +765,14 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/Taka/Documents/Dev/Podium/PodiumPublishMac/2020/script/postinstall_SU8.sh</string>
+					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2020/script/postinstall_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/Taka/Documents/Dev/Podium/PodiumPublishMac/2020/script/pre_install_read_license_SU8.sh</string>
+					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2020/script/pre_install_read_license_SU8.sh</string>
 					<key>PATH_TYPE</key>
 					<integer>0</integer>
 				</dict>
