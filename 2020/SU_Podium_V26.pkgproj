@@ -765,16 +765,16 @@
 				<key>POSTINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2020/script/postinstall_SU8.sh</string>
+					<string>script/postinstall_SU8.sh</string>
 					<key>PATH_TYPE</key>
-					<integer>0</integer>
+					<integer>1</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH</key>
-					<string>/Users/antonbursch/Documents/GitHub/PodiumPublishMac/2020/script/pre_install_read_license_SU8.sh</string>
+					<string>script/pre_install_read_license_SU8.sh</string>
 					<key>PATH_TYPE</key>
-					<integer>0</integer>
+					<integer>1</integer>
 				</dict>
 				<key>RESOURCES</key>
 				<array/>
@@ -788,7 +788,7 @@
 				<key>FOLLOW_SYMBOLIC_LINKS</key>
 				<false/>
 				<key>IDENTIFIER</key>
-				<string>SU2020PodiumV2.6.044</string>
+				<string>SU2020PodiumV2.6.045</string>
 				<key>LOCATION</key>
 				<integer>0</integer>
 				<key>NAME</key>
@@ -804,7 +804,7 @@
 				<key>USE_HFS+_COMPRESSION</key>
 				<false/>
 				<key>VERSION</key>
-				<string>2.6.044</string>
+				<string>2.6.045</string>
 			</dict>
 			<key>TYPE</key>
 			<integer>0</integer>
@@ -983,7 +983,7 @@
 						<key>LANGUAGE</key>
 						<string>English</string>
 						<key>VALUE</key>
-						<string>SU Podium V2.6.044</string>
+						<string>SU Podium V2.6.045</string>
 					</dict>
 				</array>
 			</dict>
